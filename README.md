@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="./Images/logo.jpg" alt="ScoreZilla Logo" width="300"/>
+  <img src="./Images/Logo.jpg" alt="ScoreZilla Logo" width="300"/>
 </p>
 
 # 🏆 Scorezilla - Corporate Sports Tournament Manager
