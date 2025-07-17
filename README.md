@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="./Images/scorezilla_logo.png" alt="ScoreZilla Logo" width="300"/>
+  <img src="./Images/logo.jpg" alt="ScoreZilla Logo" width="300"/>
 </p>
 
 # 🏆 Scorezilla - Corporate Sports Tournament Manager
@@ -121,32 +121,39 @@ This starts the main API backend on [http://localhost:8000](http://localhost:800
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Demo & Screenshots
 
-### 1️⃣ Admin Dashboard
-<img src="Images/admin_dashboard.jpg" width="700"/>
-Complete control over tournament setup, team management, score input, sponsor management, and analytics overview.
+### 1️⃣ Registration (Role Selection)
+<img src="Images/Registration.jpg" width="700"/>
+<br>Upon registration, users can select from three roles: Admin, Judge, or Leader. This ensures each user gets a tailored dashboard and access to features relevant to their responsibilities in the tournament.
 
-### 2️⃣ Judge Dashboard
-<img src="Images/judge_dashboard.jpg" width="700"/>
-Judges can directly update match scores, verify team lineups, and monitor match statuses.
+### 2️⃣ Leaderboard (Public Access)
+<img src="Images/Leaderboard.jpg" width="700"/>
+<br>The leaderboard is accessible to everyone, even without logging in. It displays real-time scores and rankings, ensuring transparency and excitement for all participants and viewers.
 
-### 3️⃣ Leader Dashboard
-<img src="Images/leader_dashboard.jpg" width="700"/>
-Participants or leaders can view fixtures, match timings, team stats, and the live leaderboard.
+### 3️⃣ Admin Dashboard
+<img src="Images/Admin_dashboard.jpg" width="700"/>
+<br>Admins can add new tournaments, manage events (like morning Yoga or Zumba sessions via the top corner), and send WhatsApp notifications to leaders for quick communication and updates.
 
-### 4️⃣ Live Leaderboard View
-<img src="Images/leaderboard.jpg" width="700"/>
-Real-time score updates ensuring transparency and excitement for every stakeholder.
+### 4️⃣ Sponsorship Analytics
+<img src="Images/Sponsorship_analytics.jpg" width="700"/>
+<br>This dashboard provides a pie chart showing real-time analytics: how many times sponsor images were hovered over and how many times they were actually clicked, helping sponsors measure engagement.
 
-### 5️⃣ QR Code Team Registration
-<img src="Images/qr_registration.jpg" width="700"/>
-Hassle-free participant onboarding via simple QR code scanning.
+### 5️⃣ Admin Setting Tournament
+<img src="Images/Admin-settingTournament.jpg" width="700"/>
+<br>Admins can configure tournament details, set up events, and manage all aspects of the tournament from this interface.
 
-### 6️⃣ Automated Certificate Example
-<img src="Images/certificate_example.jpg" width="700"/>
-Branded certificates generated automatically and available for download after the tournament ends.
+### 6️⃣ Leader Dashboard (QR Code Team Joining)
+<img src="Images/Dashboard_Leader.jpg" width="700"/>
+<br>Leaders can generate a QR code for their team. Instead of registering each player manually, teammates can simply scan the QR code to join the team, making onboarding fast and error-free.
 
+### 7️⃣ Certificate Generation
+<img src="Images/certificate_generation.jpg" width="700"/>
+<br>After the tournament, teams can generate and download branded certificates as PDFs, providing official recognition for winners and participants.
+
+### 8️⃣ Judge Dashboard
+<img src="Images/Dashboard_Judge.jpg" width="700"/>
+<br>Judges can mark and score each team based on tournament IDs, streamlining the scoring process and ensuring accurate, real-time updates to the leaderboard.
 
 ---
 
