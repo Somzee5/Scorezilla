@@ -35,6 +35,7 @@ function App() {
         <Route path="/home/Leader/team/:teamName" component={JoinTeamPage} />
         <ProtectedRoute path="/home/Admin" component={AdminHomePage} />
         <ProtectedRoute path="/home/chart" component={ChartPage} />
+        <ProtectedRoute path="/admin/chart" component={ChartPage} />
         <ProtectedRoute path="/admin/sponsorship-details" component={SponsorshipDetail} />
         <ProtectedRoute path="/certificate" component={CertificateDownload} />
         <ProtectedRoute path="/create-tournament" component={CreateTournament} />

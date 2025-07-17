@@ -221,10 +221,10 @@ export default function AdminHomePage() {
               <h3 className="text-lg font-semibold mb-4">📊 View Sponsor Analytics</h3>
               <p className="text-sm text-gray-300">Monitor The User Engagement</p>
               <button
-                onClick={() => history.push('/leaderboard')}
+                onClick={() => history.push('/admin/chart')}
                 className="w-full mt-4 rounded-md bg-teal-400 py-2 text-lg font-semibold text-black shadow-lg hover:bg-teal-500 transition-all"
               >
-                View Pie Charts
+                View Sponsor Analytics Chart
               </button>
             </div>
           </div>
