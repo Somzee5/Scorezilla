@@ -148,7 +148,7 @@ This starts the main API backend on [http://localhost:8000](http://localhost:800
 <br>Leaders can generate a QR code for their team. Instead of registering each player manually, teammates can simply scan the QR code to join the team, making onboarding fast and error-free.
 
 ### 7️⃣ Certificate Generation
-<img src="Images/certificate_generation.jpg" width="700"/>
+<img src="Images/Certificate_Generation.jpg" width="700"/>
 <br>After the tournament, teams can generate and download branded certificates as PDFs, providing official recognition for winners and participants.
 
 ### 8️⃣ Judge Dashboard
